@@ -7,6 +7,8 @@ I'm a passionate full-stack web developer specializing in responsive, modern web
 - 🎨 UI/UX design implementation
 - 🌐 Responsive design
 - 🛠️ Frontend integrations (APIs, animations, dynamic components)
+- 🛠️ Backend integrations (CRUD Functions, Create, Read, Update, Delete, automatic email send, data analytics)
+
 
 ## 🔧 Tech Stack
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
