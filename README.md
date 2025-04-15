@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Hamza Nakan
 
-I'm a passionate front-end web developer specializing in responsive, modern websites using HTML, CSS, GSAP, JavaScript, and frameworks like React.
+I'm a passionate full-stack web developer specializing in responsive, modern websites using HTML, CSS, GSAP, JavaScript, and frameworks like React.
 
 ## 🚀 What I Do
 - 💻 Freelance web development
